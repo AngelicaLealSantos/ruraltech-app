@@ -61,7 +61,7 @@
         }
 
         public static void main(String[] args) {
-            agendarEntrega("Deógenes", "Rua A, 123", "arroz", 20, "2024-05-01");
+            agendarEntrega("Bia", "Rua A, 123", "arroz", 20, "2024-05-01");
             agendarEntrega("Angélica", "Rua B, 456", "feijao", 50, "2024-05-02");
 
             System.out.println("\nEstoque atualizado:");
